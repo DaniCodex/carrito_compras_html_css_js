@@ -39,7 +39,7 @@ html {
 
 .container nav i:hover > .buy-card {
     width: 400px;
-    height: 400px;
+    height: auto;
     position: absolute;
     right: 0;
     background-color: #ffff;
